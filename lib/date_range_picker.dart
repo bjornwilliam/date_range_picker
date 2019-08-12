@@ -11,10 +11,10 @@ library date_range_picker;
 import 'dart:async';
 import 'dart:math' as math;
 
-import 'package:flutter/rendering.dart';
-import 'package:flutter/services.dart';
-import 'package:flutter/widgets.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter_web/rendering.dart';
+import 'package:flutter_web/services.dart';
+import 'package:flutter_web/widgets.dart';
+import 'package:flutter_web/material.dart';
 
 /// Initial display mode of the date picker dialog.
 ///
